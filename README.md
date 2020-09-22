@@ -6,4 +6,4 @@ If you would like to download the latest copy of Business Ops please visit [Powe
 
 # Version History
 - **2020-08-13** version 0.0.8 - Initial Release
-- **2020-09-??** version 0.0.9 - Add, Tableau, SQL Profiler, Report Builder, Version Checking
+- **2020-09-22** version 0.0.9 - Add, Open in Tableau, Report Builder, SQL Profiler, DAX Beautifier, Open in Excel, Version Checking
