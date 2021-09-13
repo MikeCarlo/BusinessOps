@@ -21,6 +21,7 @@ Select the files you wish to remove and delete them.  This will remove them from
 
 
 # Version History
+- **2021-09-12** version 2.0.1 - Major update, moved location of installed external tools in to program files directory
 - **2020-11-21** version 0.0.11 - Update to Dax Beautifier, Open in Excel
 - **2020-09-26** version 0.0.10 - Bug fixes for Hot Swap tool
 - **2020-09-22** version 0.0.9 - Add, Open in Tableau, Report Builder, SQL Profiler, DAX Beautifier, Open in Excel, Version Checking
