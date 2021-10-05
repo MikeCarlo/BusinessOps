@@ -28,6 +28,7 @@ Select the files you wish to remove and delete them.  This will remove them from
 `Important: You will need to restart power bi desktop to see the changes after the file has been deleted.`
 
 # Version History
+- **2021-10-04** version 2.0.2 - Bug fixes for external tools file path location changes
 - **2021-09-12** version 2.0.1 - Major update, moved location of installed external tools in to program files directory
 - **2020-11-21** version 0.0.11 - Update to Dax Beautifier, Open in Excel
 - **2020-09-26** version 0.0.10 - Bug fixes for Hot Swap tool
