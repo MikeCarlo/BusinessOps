@@ -6,7 +6,7 @@
   },
   {
     "name": "TabularV3",
-    "version": "2.16.6",
-    "zipUrl": "https://github.com/TabularEditor/TabularEditor/releases/download/2.16.6/TabularEditor.Portable.zip"
+    "version": "3.2.3",
+    "zipUrl": "https://cdn.tabulareditor.com/files/TabularEditor.3.2.3.x64.zip"
   }
 ]
