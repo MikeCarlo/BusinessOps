@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Tabular",
+    "version": "2.16.6",
+    "zipUrl": "https://github.com/TabularEditor/TabularEditor/releases/download/2.16.6/TabularEditor.Portable.zip"
+  },
+  {
+    "name": "TabularV3",
+    "version": "2.16.6",
+    "zipUrl": "https://github.com/TabularEditor/TabularEditor/releases/download/2.16.6/TabularEditor.Portable.zip"
+  }
+]
