@@ -1,11 +1,11 @@
 [
   {
-    "name": "Tabular",
+    "location": "010__Daniel_Otykier\\Tabular",
     "version": "2.16.6",
     "zipUrl": "https://github.com/TabularEditor/TabularEditor/releases/download/2.16.6/TabularEditor.Portable.zip"
   },
   {
-    "name": "TabularV3",
+    "location": "010__Daniel_Otykier\\TabularV3",
     "version": "3.2.3",
     "zipUrl": "https://cdn.tabulareditor.com/files/TabularEditor.3.2.3.x64.zip"
   }
