@@ -8,5 +8,10 @@
     "location": "010__Daniel_Otykier\\TabularV3",
     "version": "3.2.3",
     "zipUrl": "https://cdn.tabulareditor.com/files/TabularEditor.3.2.3.x64.zip"
+  },
+  {
+    "location": "020__Michael_Kovalsky\\ReportAnalyzer",
+    "version": "1.6.0",
+    "zipUrl": "https://github.com/m-kovalsky/ReportAnalyzer/releases/download/1.6.0/ReportAnalyzer.Portable.zip"
   }
 ]
