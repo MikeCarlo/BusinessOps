@@ -13,5 +13,10 @@
     "location": "010__Darren_Gosbell\\DaxStudioV1",
     "version": "2.17.3",
     "zipUrl": "https://github.com/DaxStudio/DaxStudio/releases/download/v2.17.3/DaxStudio_2_17_3_portable.zip"
+  },
+  {
+    "location": "020__Michael_Kovalsky\\ReportAnalyzer",
+    "version": "1.6.0",
+    "zipUrl": "https://github.com/m-kovalsky/ReportAnalyzer/releases/download/1.6.0/ReportAnalyzer.Portable.zip"
   }
 ]
