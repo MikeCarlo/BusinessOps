@@ -8,5 +8,10 @@
     "location": "010__Darren_Gosbell\\DaxStudioV1",
     "version": "2.17.3",
     "zipUrl": "https://github.com/DaxStudio/DaxStudio/releases/download/v2.17.3/DaxStudio_2_17_3_portable.zip"
+  },
+  {
+    "location": "010__Daniel_Otykier\\TabularV3",
+    "version": "3.2.3",
+    "zipUrl": "https://cdn.tabulareditor.com/files/TabularEditor.3.2.3.x64.zip"
   }
 ]
