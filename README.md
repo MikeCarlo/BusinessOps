@@ -39,7 +39,7 @@ C:\Program Files (x86)\Common Files\Microsoft Shared\Power BI Desktop\External T
 
 # Version History
 - **2024-06-21** version 3.1.4 - Added: On-demand installation and updates support for Measure Killer and PBI Inpector
-- **2023-06-27** version 3.1.3 - New feature: On-demand installation & updates for DAX Studio, Tabular Editor 2 & 3, Bravo, and Report Analyzer via GitHub Releases API
+- **2023-06-27** version 3.1.3 - New feature: On-demand installation & updates via GitHub Releases API (DAX Studio, Tabular Editor 2 & 3, Bravo, and Report Analyzer)
 - **2021-10-04** version 2.0.2 - Bug fixes for external tools file path location changes
 - **2021-09-12** version 2.0.1 - Major update, moved location of installed external tools in to program files directory
 - **2020-11-21** version 0.0.11 - Update to Dax Beautifier, Open in Excel
