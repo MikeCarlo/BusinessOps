@@ -38,6 +38,7 @@ C:\Program Files (x86)\Common Files\Microsoft Shared\Power BI Desktop\External T
 > **Note:** If Power BI Desktop is already running, then you must close and re-open Power BI Desktop before the change will take effect.
 
 # Version History
+- **2024-09-16** version 3.1.5 = Fix: Removed DAX.do and DAX.guide as they are not rendering in the app
 - **2024-06-21** version 3.1.4 - Added: On-demand installation and updates support for Measure Killer and PBI Inpector
 - **2023-06-27** version 3.1.3 - New feature: On-demand installation & updates via GitHub Releases API (DAX Studio, Tabular Editor 2 & 3, Bravo, and Report Analyzer)
 - **2021-10-04** version 2.0.2 - Bug fixes for external tools file path location changes
