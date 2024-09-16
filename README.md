@@ -37,6 +37,13 @@ C:\Program Files (x86)\Common Files\Microsoft Shared\Power BI Desktop\External T
 3. Select the files you wish to remove, and delete them.
 > **Note:** If Power BI Desktop is already running, then you must close and re-open Power BI Desktop before the change will take effect.
 
+# Learn More about Business Ops
+- [PowerBI.tips One Tool to install them all](https://powerbi.tips/2020/08/one-tool-to-install-them-all/)
+- [PowerBI.tips Version 2.0.2 bug fix](https://powerbi.tips/2021/10/business-ops-2-0-2-update-bugfix/)
+- [PowerBI.tips Adding New Tools Serverport Connection Copy to Clipboard](https://powerbi.tips/2021/09/copy-power-bi-desktop-serverport-connection-string-to-clipboard/)
+- [PowerBI.tips Hot Swap Connection](https://powerbi.tips/2020/08/hot-swap-report-connections-external-tools/)
+- [PowerBI.tips Update 3.0.2](https://powerbi.tips/2022/02/business-ops-3-0-2-updated-external-tools/)
+
 # Version History
 - **2024-09-16** version 3.1.5 - Fix: Removed DAX.do and DAX.guide as they are not rendering in the app
 - **2024-06-21** version 3.1.4 - Added: On-demand installation and updates support for Measure Killer and PBI Inpector
